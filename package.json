@@ -31,7 +31,7 @@
   "dependencies": {
     "@types/mongoose": "^4.7.11",
     "@types/restify": "^4.3.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bunyan": "^1.8.12",
     "expo-server-sdk": "^3.3.0",
     "mongoose": "^4.9.8",
